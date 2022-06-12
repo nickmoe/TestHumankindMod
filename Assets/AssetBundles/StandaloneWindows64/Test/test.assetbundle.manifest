@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1621236584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 255980e9b6a802d8d06c9ca6181ace56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91f723762be9a255a803dc4c00664ca4
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: -457851255, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -2122520293, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -203084690, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 130328062, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Asset.AssetDescriptor
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Asset.Texture2DReference
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Guid
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Version
+Assets:
+- Assets/Manifests/Test.Manifest.asset
+- Assets/Runtime/Test.asset
+- Assets/AssetBundleContentDescriptor.asset
+Dependencies: []

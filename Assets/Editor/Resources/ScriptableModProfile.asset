@@ -21,8 +21,8 @@ MonoBehaviour:
       value: 0
       isDirty: 0
     name:
-      value: 
-      isDirty: 0
+      value: Test
+      isDirty: 1
     nameId:
       value: 
       isDirty: 0
@@ -43,7 +43,9 @@ MonoBehaviour:
       value: 
       isDirty: 0
     metadataKVPs:
-      value: []
+      value:
+      - key: RuntimeModuleGUID
+        value: 16f43c0f38c245bfbc8c2c259c0aebc0
       isDirty: 0
     logoLocator:
       value:
